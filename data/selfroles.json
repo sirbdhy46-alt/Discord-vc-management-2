@@ -1,0 +1,132 @@
+{
+  "1489669414860230718": {
+    "roles": [
+      {
+        "role_id": "1491370824018563112",
+        "emoji": "<:emoji_22:1490595467837308998>",
+        "label": "\u02c3\u1d17\u02c2 boy"
+      },
+      {
+        "role_id": "1491370811024474304",
+        "emoji": "<:emoji_23:1490595503296217088>",
+        "label": "\u273f girl"
+      },
+      {
+        "role_id": "1491950447848849591",
+        "emoji": "<:srgaming:1491950447152468099>",
+        "label": "Gaming"
+      },
+      {
+        "role_id": "1491950460871901235",
+        "emoji": "<:srmusic:1491950459911671919>",
+        "label": "Music"
+      },
+      {
+        "role_id": "1491950481327788032",
+        "emoji": "<:srart:1491950480581197914>",
+        "label": "Art"
+      },
+      {
+        "role_id": "1491950491783925862",
+        "emoji": "<:sranime:1491950490630754456>",
+        "label": "Anime"
+      },
+      {
+        "role_id": "1491950510549237781",
+        "emoji": "<:srmovies:1491950510071218186>",
+        "label": "Movies"
+      },
+      {
+        "role_id": "1491950518862614529",
+        "emoji": "\u2b50",
+        "label": "Coding"
+      },
+      {
+        "role_id": "1491950531718152342",
+        "emoji": "<:srsports:1491950530770243605>",
+        "label": "Sports"
+      },
+      {
+        "role_id": "1491950536281296976",
+        "emoji": "\u2b50",
+        "label": "Cooking"
+      }
+    ],
+    "panel_message_id": "1491951748833612018",
+    "panel_channel_id": "1491931757057146890",
+    "pages": [
+      {
+        "name": "\u2726 Interests",
+        "description": "\u273f Pick your interests below!\n\u22b9 Click a button to get or remove a role.",
+        "roles": [
+          {
+            "role_id": "1491950447848849591",
+            "emoji": "<:srgaming:1491950447152468099>",
+            "label": "Gaming"
+          },
+          {
+            "role_id": "1491950460871901235",
+            "emoji": "\ud83c\udfb5",
+            "label": "Music"
+          },
+          {
+            "role_id": "1491950481327788032",
+            "emoji": "\ud83c\udfa8",
+            "label": "Art"
+          },
+          {
+            "role_id": "1491950491783925862",
+            "emoji": "<:sranime:1491950490630754456>",
+            "label": "Anime"
+          },
+          {
+            "role_id": "1491950510549237781",
+            "emoji": "<:srmovies:1491950510071218186>",
+            "label": "Movies"
+          },
+          {
+            "role_id": "1491950518862614529",
+            "emoji": "\ud83d\udcbb",
+            "label": "Coding"
+          },
+          {
+            "role_id": "1491950531718152342",
+            "emoji": "<:srsports:1491950530770243605>",
+            "label": "Sports"
+          },
+          {
+            "role_id": "1491950536281296976",
+            "emoji": "<:srcooking:1491951704172662818>",
+            "label": "Cooking"
+          }
+        ]
+      },
+      {
+        "name": "\u2661 Status & Age",
+        "description": "\u27e1 Choose your relationship status and age group!\n\u22b9 Click a button to get or remove a role.",
+        "roles": [
+          {
+            "role_id": "1491951714087997440",
+            "emoji": "<a:srsingle:1491951713467236443>",
+            "label": "Single"
+          },
+          {
+            "role_id": "1491951724783599836",
+            "emoji": "<:srtaken:1491951723755868261>",
+            "label": "Taken"
+          },
+          {
+            "role_id": "1491951737714643187",
+            "emoji": "<:sr18plus:1491951736661737574>",
+            "label": "18+"
+          },
+          {
+            "role_id": "1491951745604255764",
+            "emoji": "<:sr18minus:1491951744421204150>",
+            "label": "18-"
+          }
+        ]
+      }
+    ]
+  }
+}
