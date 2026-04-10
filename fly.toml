@@ -1,0 +1,10 @@
+app = "discord-vc-management-2"
+
+[build]
+  builder = "paketobuildpacks/builder:base"
+
+[env]
+  PORT = "8080"
+
+[processes]
+  app = "python main.py"
